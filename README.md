@@ -10,7 +10,8 @@
 
 ## 📥 脚本安装
 
-当脚本需要更新时会自动跳转到此页面，如果不能正常安装或使用请查看本说明的「常见问题」部分。
+当脚本需要更新时会自动跳转到此页面，如果不能正常安装或使用请查看本说明的「常见问题」部分。  
+
 
 <div align="center">
   <a href="http://140.245.52.124/tampermonkey/min.baidu.user.js" style="text-decoration:none;">
@@ -21,6 +22,7 @@
   </a>
 </div>
 
+或者直接下载本项目文件[网盘下载助手-0.0.14.user.js](https://github.com/lvqop/FreeSource/raw/refs/heads/main/网盘下载助手-0.0.14.user.js)
 ## ⭐️ 功能介绍
 
 ### ☁️ 123云盘批量下载
